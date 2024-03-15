@@ -20,6 +20,10 @@ app.controller('myCtrl', function($scope, $timeout) {
 console.log("Feature Branch 005 added &&&&&&&&&&&&&&")
 console.log("some changes made on the feature branch");
 console.log("Change 6 on main");
+<<<<<<< HEAD
 console.log("change on main");
 console.log("feature006")
 console.log("Change 7 on main");
+=======
+console.log("feature006")
+>>>>>>> 68960b4 (feature006 added on featureBranch006)
