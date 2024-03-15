@@ -16,3 +16,5 @@ app.controller('myCtrl', function($scope, $timeout) {
       $scope.myHeader = "How are you today?";
   }, 2000);
 });
+
+console.log("some changes made on the feature branch");
