@@ -17,5 +17,9 @@ app.controller('myCtrl', function($scope, $timeout) {
   }, 2000);
 });
 
+<<<<<<< HEAD
 console.log("Feature Branch 005 added &&&&&&&&&&&&&&")
 console.log("some changes made on the feature branch");
+=======
+console.log("some changes made on the feature branch");
+>>>>>>> 1e58e7ef221c235ddf5feeae0af21977f3066b58
