@@ -22,3 +22,4 @@ console.log("some changes made on the feature branch");
 console.log("Change 6 on main");
 console.log("change on main");
 console.log("feature006")
+console.log("Change 7 on main");
